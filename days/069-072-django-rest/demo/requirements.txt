@@ -3,3 +3,4 @@ django-registration
 djangorestframework
 requests
 django-rest-swagger
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
